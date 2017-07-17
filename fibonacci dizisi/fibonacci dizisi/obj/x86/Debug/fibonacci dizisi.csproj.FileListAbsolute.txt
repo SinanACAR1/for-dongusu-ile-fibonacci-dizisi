@@ -1,0 +1,15 @@
+C:\Users\Samet\AppData\Local\Temporary Projects\fibonacci dizisi\obj\x86\Debug\fibonacci_dizisi.Form1.resources
+C:\Users\Samet\AppData\Local\Temporary Projects\fibonacci dizisi\obj\x86\Debug\fibonacci_dizisi.Properties.Resources.resources
+C:\Users\Samet\AppData\Local\Temporary Projects\fibonacci dizisi\obj\x86\Debug\fibonacci dizisi.csproj.GenerateResource.Cache
+C:\Users\Samet\AppData\Local\Temporary Projects\fibonacci dizisi\bin\Debug\fibonacci dizisi.exe
+C:\Users\Samet\AppData\Local\Temporary Projects\fibonacci dizisi\bin\Debug\fibonacci dizisi.pdb
+C:\Users\Samet\AppData\Local\Temporary Projects\fibonacci dizisi\obj\x86\Debug\fibonacci dizisi.exe
+C:\Users\Samet\AppData\Local\Temporary Projects\fibonacci dizisi\obj\x86\Debug\fibonacci dizisi.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\fibonacci dizisi\fibonacci dizisi\obj\x86\Debug\fibonacci dizisi.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\fibonacci dizisi\fibonacci dizisi\obj\x86\Debug\fibonacci dizisi.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\fibonacci dizisi\fibonacci dizisi\bin\Debug\fibonacci dizisi.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\fibonacci dizisi\fibonacci dizisi\bin\Debug\fibonacci dizisi.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\fibonacci dizisi\fibonacci dizisi\obj\x86\Debug\fibonacci_dizisi.Form1.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\fibonacci dizisi\fibonacci dizisi\obj\x86\Debug\fibonacci_dizisi.Properties.Resources.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\fibonacci dizisi\fibonacci dizisi\obj\x86\Debug\fibonacci dizisi.csproj.GenerateResource.Cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\fibonacci dizisi\fibonacci dizisi\obj\x86\Debug\fibonacci dizisi.csprojResolveAssemblyReference.cache
